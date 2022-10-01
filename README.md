@@ -80,7 +80,7 @@ npm install react-native-svg --save
 
 ## 🔖 Layout
 
-The basic layout project can be accessed in [this link](https://www.figma.com/file/5zQxkqo0Kl2GaCljU40WXa/Projetos-React-Native-Ignite-2022) in your [Figma](https://figma.com) account.
+The basic layout project can be accessed in [this link](https://www.figma.com/file/d12UEXDZ9cAaZ5YQNZ5YwH/ToDo-List?node-id=0%3A1) in your [Figma](https://figma.com) account.
 
 ## 💻 IDE
 This project was done using [Visual Studio Code](https://code.visualstudio.com/) IDE.
