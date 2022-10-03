@@ -53,7 +53,7 @@ To Do List App
 nvm use v16.16.0
 ```
 
-2. Create the project
+2. Create the project - blank (Typescript)
 ```sh
 expo init tasks --npm
 ```

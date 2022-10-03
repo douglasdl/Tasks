@@ -1,13 +1,21 @@
-import { styles } from './styles';
-import { Text, View } from 'react-native';
+import { 
+    Container, 
+    Icon, 
+} from './styles';
 
+interface ButtonProps {
+    onAdd?: () => void;
+}
 
-
-export function AddButton() {
+export function AddButton({onAdd}: ButtonProps) {
     return (
-        <View style={styles.container}>
-            <Text style={styles.icon}>+</Text>
-        </View>
+        <Container
+            onPress={onAdd}
+        >
+            <Icon>
+                +
+            </Icon>
+        </Container>
     );
 }
 
